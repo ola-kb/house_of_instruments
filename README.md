@@ -1,11 +1,11 @@
 # house_of_instruments
 
-## DBMS and SQL
+# DBMS and SQL
 
 - Content related to Database Management Systems and Structured Query Language
 - Tested in MySQL Workbench
 
-# Problems / Queries / Tasks :
+## Problems / Queries / Tasks :
 - create db to practise, normalizations (eliminates redundancy), using Primary Key and Foreign Key, DDL
 - insert data, DML
 - modify tables
