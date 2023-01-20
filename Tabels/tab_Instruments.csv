@@ -1,0 +1,5 @@
+instr_id;instr_type;date_production;producer;remark;instr_value
+101;clarinet;1995-07-30;Buffet;"without mouthpiece";9300
+102;violin;2015-08-08;Amati;"size 1/2";6400
+103;bassoon;2002-03-10;Yamaha;none;12500
+104;cello;2006-12-11;Toto;"new endpin";15300
